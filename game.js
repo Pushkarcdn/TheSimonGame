@@ -81,7 +81,6 @@ function checkAnswer() {
 }
 
 
-
 function playSound(color) {
     var audio = new Audio("sounds/" + color + ".mp3");
     audio.play();
